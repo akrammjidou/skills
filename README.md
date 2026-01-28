@@ -124,6 +124,15 @@ Each skill undergoes systematic testing:
 
 **Acceptance criteria**: A skill is only kept if it enables Haiku or Sonnet to solve a problem they couldn't solve without it.
 
+## Contributing
+
+Development happens on the `dev` branch. The `main` branch is reserved for published skills only.
+
+1. Create a feature branch from `dev`
+2. Submit a PR to `dev`
+3. After approval, changes are merged to `dev`
+4. Maintainers sync `dev` → `main` via GitHub Action when ready to publish
+
 ## Related projects
 
 - [vueuse/vueuse-skills](https://github.com/vueuse/vueuse-skills) - Agent skills for VueUse development

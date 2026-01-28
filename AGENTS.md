@@ -1,5 +1,18 @@
 # Vue Skills Development Guide
 
+## Branch Strategy
+
+> **IMPORTANT: Never develop on `main` branch!**
+>
+> - `main` is the **publishing branch** — it only contains released skills
+> - `dev` is the **development branch** — all work happens here
+> - Use the "Sync to Main" GitHub Action to publish changes from `dev` to `main`
+
+| Branch | Purpose | Direct commits |
+|--------|---------|----------------|
+| `main` | Publishing (`npx skills add vuejs-ai/skills`) | Forbidden |
+| `dev` | Development, tests, experiments | Via PR only |
+
 ## Skill Scopes
 
 | Skill | Scope |
