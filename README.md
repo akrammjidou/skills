@@ -49,13 +49,13 @@ Prompt
 create a todo app
 ```
 
-🔎 See demo [full output](./demo/todo-app).
+🔎 See demo [full output](https://github.com/vuejs-ai/skills/tree/dev/demo/todo-app).
 
 #### Changes after using skill
 
-- More readable [code](demo/todo-app/with-skills/App.vue)
-- [Components](demo/todo-app/with-skills/components) split
-- Moved states into composables ([useTodos.ts](demo/todo-app/with-skills/composables/useTodos.ts))
+- More readable [code](https://github.com/vuejs-ai/skills/tree/dev/demo/todo-app/with-skills/App.vue)
+- [Components](https://github.com/vuejs-ai/skills/tree/dev/demo/todo-app/with-skills/components) split
+- Moved states into composables ([useTodos.ts](https://github.com/vuejs-ai/skills/tree/dev/demo/todo-app/with-skills/composables/useTodos.ts))
 - Use `shallowRef` for primitive reactive data (see [Reactivity Guide](skills/vue-development-guides/references/reactivity-guide.md))
 
 ### create-adaptable-composable
@@ -70,7 +70,7 @@ Prompt
 create a reusable composable for controlling hidden for a element
 ```
 
-🔎 See demo [full output](./demo/hidden-composable).
+🔎 See demo [full output](https://github.com/vuejs-ai/skills/tree/dev/demo/hidden-composable).
 
 #### Changes after using skill
 
